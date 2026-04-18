@@ -1,0 +1,5 @@
+Model,Syn_R²,Real_R²,R²_Gap,Syn_MAE,Real_MAE,MAE_Increase,Generalization
+BPNN,0.9878,0.4767,0.5111,1.279,3.5123,2.2333,Poor
+Random Forest,0.9805,0.9228,0.0577,1.5732,2.1527,0.5795,Good
+XGBoost,0.9871,0.9691,0.018,1.3044,1.1123,-0.1921,Good
+Ensemble,0.9878,0.9142,0.0736,1.2708,1.8211,0.5503,Good

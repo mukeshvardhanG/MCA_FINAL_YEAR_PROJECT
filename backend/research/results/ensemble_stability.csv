@@ -1,0 +1,5 @@
+Model,Syn_Consistency,Real_Consistency,Syn_Var_Error,Real_Var_Error,Syn_Std_Error,Real_Std_Error,Consistency_Drop,Domain_Stability
+BPNN,0.018522,0.026665,52.9897,36.5017,7.2794,6.0417,-0.008143,Stable
+Random Forest,0.112768,0.179502,7.8678,4.571,2.805,2.138,-0.066734,Moderate
+XGBoost,0.125614,0.211718,6.9609,3.7233,2.6384,1.9296,-0.086104,Moderate
+Ensemble,0.101173,0.180503,8.884,4.5401,2.9806,2.1307,-0.07933,Moderate

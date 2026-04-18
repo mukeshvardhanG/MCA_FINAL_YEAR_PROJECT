@@ -1,0 +1,13 @@
+Config,Num_Features,Model,R²,RMSE,MAE
+Physical Only,11,BPNN,0.955,3.0397,2.402
+Physical Only,11,RF,0.9545,3.0596,2.4124
+Physical Only,11,XGBoost,0.9575,2.9543,2.3383
+Physical Only,11,Ensemble,0.9583,2.9263,2.3099
+Physical + Psychological,16,BPNN,0.9808,1.985,1.5741
+Physical + Psychological,16,RF,0.9756,2.2395,1.7431
+Physical + Psychological,16,XGBoost,0.9797,2.0404,1.6209
+Physical + Psychological,16,Ensemble,0.9811,1.9695,1.55
+Full Feature Set,21,BPNN,0.9873,1.6178,1.2994
+Full Feature Set,21,RF,0.9803,2.0124,1.5849
+Full Feature Set,21,XGBoost,0.9854,1.7314,1.3919
+Full Feature Set,21,Ensemble,0.9868,1.6461,1.3194

@@ -1,0 +1,4 @@
+N_Records,Preprocess_Mean_s,Preprocess_Std_s,Predict_Mean_s,Predict_Std_s,Total_Mean_s,Total_Std_s,Throughput_records_per_s,Per_Record_ms,Scaling_Factor
+100,0.0095,0.0026,0.3643,0.0347,0.3737,0.0372,268.0,3.737,1.0
+1000,0.0114,0.0019,0.4832,0.0624,0.4945,0.0643,2022.0,0.495,1.32
+10000,0.025,0.0018,0.9608,0.2108,0.9858,0.2097,10144.0,0.099,2.64

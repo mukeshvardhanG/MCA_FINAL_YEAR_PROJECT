@@ -1,0 +1,4 @@
+Config,Num_Features,R²,RMSE,MAE
+Physical Only,11,0.9583,2.9263,2.3099
+Physical + Psychological,16,0.9811,1.9695,1.55
+Full Feature Set,21,0.9868,1.6461,1.3194

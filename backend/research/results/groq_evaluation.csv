@@ -1,0 +1,5 @@
+Case,Grade,Score,Relevance,Correctness,Usefulness,Average,N_Strengths,N_Weaknesses,N_Actions,Summary_Len,Has_Psych_Guidance
+High Performer (Grade A),A,92.5,10,10,10,10.0,3,2,3,178,Yes
+Average Performer (Grade C),C,62.0,10,9,10,9.67,3,2,3,140,Yes
+Low Performer (Grade D),D,38.5,10,10,10,10.0,3,2,3,136,Yes
+Good Performer (Grade B),B,76.0,10,9,10,9.67,3,2,3,134,Yes

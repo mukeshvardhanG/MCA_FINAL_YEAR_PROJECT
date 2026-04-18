@@ -1,0 +1,22 @@
+Final_Rank,Feature,Display_Name,Mean_Importance,Std_Importance,CV%,Mean_Rank,Rank_Std,Min_Rank,Max_Rank,Rank_Range
+1,goal_orientation_score,Goal Orientation,0.778804,0.00846,1.09,1.0,0.0,1,1,0
+2,motivation_score,Motivation,0.700764,0.007406,1.06,2.0,0.0,2,2,0
+3,coordination_score,Coordination,0.608854,0.007149,1.17,3.0,0.0,3,3,0
+4,self_confidence_score,Self-Confidence,0.434168,0.006858,1.58,4.0,0.0,4,4,0
+5,stress_management_score,Stress Mgmt,0.37066,0.006898,1.86,5.0,0.0,5,5,0
+6,mental_resilience_score,Resilience,0.33777,0.008044,2.38,6.0,0.0,6,6,0
+7,peer_collaboration_score,Peer Collab,0.318445,0.006665,2.09,7.0,0.0,7,7,0
+8,running_speed_100m,Sprint 100m,0.293181,0.006061,2.07,8.0,0.0,8,8,0
+9,teamwork_score,Teamwork,0.287089,0.005483,1.91,9.4,0.49,9,10,1
+10,participation_score,Participation,0.285016,0.005305,1.86,9.6,0.49,9,10,1
+11,physical_progress_index,Progress Index,0.24119,0.00562,2.33,11.0,0.0,11,11,0
+12,reaction_time_ms,Reaction Time,0.233309,0.004477,1.92,12.0,0.0,12,12,0
+13,skill_acquisition_speed,Skill Acquisition,0.219147,0.003377,1.54,13.0,0.0,13,13,0
+14,communication_score,Communication,0.212833,0.00381,1.79,14.4,0.49,14,15,1
+15,leadership_score,Leadership,0.211413,0.004448,2.1,14.6,0.49,14,15,1
+16,endurance_1500m,Endurance 1500m,0.154017,0.004679,3.04,16.0,0.0,16,16,0
+17,bmi,BMI,0.129943,0.002229,1.72,17.2,0.4,17,18,1
+18,strength_score,Strength,0.12807,0.002696,2.11,17.8,0.4,17,18,1
+19,flexibility_score,Flexibility,0.113186,0.003541,3.13,19.0,0.0,19,19,0
+20,age,Age,0.000255,7e-05,27.42,20.0,0.0,20,20,0
+21,grade_level,Grade Level,-0.00157,0.000245,15.62,21.0,0.0,21,21,0

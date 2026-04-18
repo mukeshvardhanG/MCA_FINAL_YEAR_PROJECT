@@ -1,0 +1,9 @@
+Model,Domain,N,R²,RMSE,MAE,MedAE,MAPE%,Max_Error
+BPNN,Synthetic (In-Domain),1500,0.9878,1.5851,1.279,1.1117,2.64,4.9424
+BPNN,Real (Cross-Domain),58,0.4767,6.7408,3.5123,1.0737,5.94,23.3667
+Random Forest,Synthetic (In-Domain),1500,0.9805,2.0001,1.5732,1.2674,3.3,7.624
+Random Forest,Real (Cross-Domain),58,0.9228,2.5884,2.1527,2.0464,3.63,5.9723
+XGBoost,Synthetic (In-Domain),1500,0.9871,1.6272,1.3044,1.1087,2.71,5.4826
+XGBoost,Real (Cross-Domain),58,0.9691,1.6382,1.1123,0.8518,1.94,6.8142
+Ensemble,Synthetic (In-Domain),1500,0.9878,1.5849,1.2708,1.0749,2.65,5.1863
+Ensemble,Real (Cross-Domain),58,0.9142,2.7297,1.8211,1.1443,3.07,9.5904
